@@ -1,0 +1,26 @@
+#main-title {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#dog-form {
+    width: 50%;
+    margin: 0 auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#sendwoof {
+    background-color: rgb(86, 199, 189);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.loading {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.woofs {
+    width: 80%;
+    margin: 0 auto;
+}
